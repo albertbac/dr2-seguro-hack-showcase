@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Confirm site ownership"]
-    S2["Run manual diagnosis"]
-    S3["Review prioritized findings"]
-    S4["Apply hardening guidance"]
-    S5["Re-run the same safe workflow"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Confirm site ownership"]
+    W2["Run manual diagnosis"]
+    W3["Review prioritized findings"]
+    W4["Apply hardening guidance"]
+    W5["Re-run the same safe workflow"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
