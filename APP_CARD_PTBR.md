@@ -1,7 +1,7 @@
 # Defensive Security Assessment and Hardening Workspace
 
 - titulo: Defensive Security Assessment and Hardening Workspace
-- descricao curta: Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes ofensivos.
-- frase de valor: Mostra uma camada defensiva simples para diagnostico e correcoes praticas sem expor detalhes ofensivos.
+- descricao curta: Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes que facilitem abuso.
+- frase de valor: Mostra uma camada defensiva simples para diagnostico e correcoes praticas sem expor detalhes que facilitem abuso.
 - CTA sugerida: Ver o case tecnico publico de Seguro-hack.
 - tags: defensive-security, hardening, reporting, adjacent-system
