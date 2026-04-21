@@ -9,7 +9,7 @@ Site owners need a simple way to understand visible security posture and correct
 ## Product logic
 This product is framed as defensive assessment and hardening support, not as an offensive testing platform for public disclosure.
 
-The operational problem is that non-technical operators need understandable guidance on exposed posture without being flooded with exploit detail.
+The operational problem is that non-technical operators need understandable guidance on exposed posture without being flooded with harmful operational detail.
 
 The product logic combines ownership validation, controlled diagnostic execution, and a two-layer report that separates practical guidance from deeper technical review.
 
